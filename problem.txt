@@ -1,0 +1,4 @@
+I have a json file and I need to insert the data into mongodb, 
+but I can't because it has only one array has collection of objects 
+that means it will insert only one document inside it containing multiple records. 
+I want to format json file to make every seperate object insertion possible.
